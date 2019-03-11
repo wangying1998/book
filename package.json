@@ -4,14 +4,13 @@
   "description": "电子书",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wangying1998/book.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "wangying1998",
+  "license": "MIT License",
   "bugs": {
     "url": "https://github.com/wangying1998/book/issues"
   },
